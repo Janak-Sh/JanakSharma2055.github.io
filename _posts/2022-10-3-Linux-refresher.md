@@ -61,7 +61,7 @@ Here is one way to remember this construct (although it is not entirely accurate
 
 Here all of the output is shown in terminal
 
-![Untitled](/assets/images/2022-10-3-Linux-refresher/Untitled%201.png)
+![Untitled](/assets/images/2022-10-3-Linux-refresher/Untitled1.png)
 
 Here the stdout is dumped to null thus only error  is shown
 
@@ -96,7 +96,7 @@ ls | tee peanuts.txt
 
 This will write the output of ls to file and also displays to console as well.
 
-![Untitled](/assets/images/2022-10-3-Linux-refresher/Untitled%203.png)
+![Untitled](/assets/images/2022-10-3-Linux-refresher/Untitled3.png)
 
 The `tee` command can also write to multiple files. To do so, specify a list of files separated by space as arguments:
 
@@ -173,7 +173,7 @@ head -c 15 /var/log/syslog
 #-c stands for no of bytes
 ```
 
-![Untitled](/assets/images/2022-10-3-Linux-refresher/Untitled%204.png)
+![Untitled](/assets/images/2022-10-3-Linux-refresher/Untitled4.png)
 
 Now the description makes sense to me. Learn how it is written in manual page. 
 
@@ -181,7 +181,7 @@ Now the description makes sense to me. Learn how it is written in manual page.
 
 similar to head that let’s us to view last 10 line by default
 
-![Untitled](/assets/images/2022-10-3-Linux-refresher/Untitled%205.png)
+![Untitled](/assets/images/2022-10-3-Linux-refresher/Untitled5.png)
 
 ## **expand and unexpand**
 
