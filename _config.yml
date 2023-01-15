@@ -19,9 +19,9 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Portfolio                         # the main title
+title: Janak Sharma                         # the main title
 
-tagline: Janak's Portfolio   # it will display as the sub-title
+tagline: Computer Science Enthusiast   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A website for my portfolio
@@ -32,8 +32,8 @@ url: 'https://JanakSharma2055.github.io'
 github:
   username: JanakSharma2055            # change to your github username
 
-twitter:
-  username: twitter_username            # change to your twitter username
+# twitter:
+#   username: twitter_username            # change to your twitter username
 
 social:
   # Change to your full name.
@@ -42,11 +42,11 @@ social:
   email: janaksharma2075@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
+       # change to your twitter homepage
     - https://github.com/JanakSharma2055      # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/janaksharma
 
 google_site_verification:               # fill in to your verification string
 
