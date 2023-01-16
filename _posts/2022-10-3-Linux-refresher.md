@@ -57,8 +57,6 @@ ls /fake/directory 2> /dev/null
 Here is one way to remember this construct (although it is not entirely accurate): at first, `2>1` may look like a good way to redirect `stderr` to `stdout`. However, it will actually be interpreted as "redirect `stderr` to a file named `1`". `&` indicates that what follows and precedes is a file descriptor and not a filename. So the construct becomes: `2>&1`.
 > 
 
-![Untitled](2022-10-3-Linux-refresher/Untitled 1.png)
-
 Here all of the output is shown in terminal
 
 ![Untitled](/assets/images/2022-10-3-Linux-refresher/Untitled1.png)

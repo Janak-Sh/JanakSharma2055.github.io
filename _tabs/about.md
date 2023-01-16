@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 4
+order: 1
 ---
 
 
@@ -14,4 +14,5 @@ In addition to my formal education, I have also gained experience through variou
 - Embedded systems and microcontrollers
 - Computer networks and cybersecurity
 - Machine learning and artificial intelligence
+
 I am always eager to learn and explore new technologies, and I am excited to continue growing as a computer engineer. If you have any questions or opportunities, please don't hesitate to reach out.
