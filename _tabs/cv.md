@@ -4,6 +4,6 @@ icon: fas fa-info-circle
 order: 2
 ---
 
-<iframe src="/assets/Janak_Resume.pdf" width="900" height="500" 
+<iframe src="/assets/Janak_Resume.pdf" width="700" height="400" 
  > </iframe>
 {: .prompt-tip }
